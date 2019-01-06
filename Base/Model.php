@@ -12,4 +12,8 @@ class Model {
         
         }
     }
+    
+    public function Add(){
+        
+    }
 }
